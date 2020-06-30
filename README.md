@@ -7,7 +7,7 @@ The Java DNN Program can be used to train models using Binary Neural Networks (B
 # Getting started
 Download the src files as well as the training data found [here](https://drive.google.com/drive/folders/1J6ewbqCr7DQLb0cTMlcBu4TsGlBXPnEh?usp=sharing)
 
-Once you have installed the src files and training data, you can create a new main file in any IDE to create a neural network, or you can use the sample main as a template
+Once you have downloaded the src files and training data, you can create a new main file in any IDE to create a neural network, or you can use the sample main as a template
 
 ## Loading Files
 Files in CSV format are loaded into two dimensional floating point arrays using the MatrixIO object
